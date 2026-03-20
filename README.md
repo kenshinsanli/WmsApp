@@ -16,8 +16,6 @@
 - **Vision:** Google ML Kit (Text Recognition), CameraX
 - **Concurrency:** Coroutines, StateFlow, SharedFlow
 
-## 📱 功能截圖
-*(建議在此處放入你的 App 截圖)*
 
 ## 🛠️ 如何執行
 1. Clone 專案: `git clone https://github.com/你的帳號/WmsApp.git`
