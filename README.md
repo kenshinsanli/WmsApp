@@ -15,7 +15,7 @@
 
 📺 實戰展示 (Demo)
 查看掃描器如何快速辨識 SKU 並顯示庫存資訊：
-點此觀看展示影片
+https://youtube.com/shorts/o--0SQ9Pa54
 
 ## 🛠️ 技術棧 (Tech Stack)
 - **Language:** Kotlin
